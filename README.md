@@ -1,23 +1,25 @@
 
 # Table of Contents
 
-1.  [Comment créerun site web et l'héberger gratuitement ?](#org756baae)
-    1.  [Créer un compte GitHub](#orgb68d0d1)
-    2.  [Créer un dépôt (create new repository)](#org66f50ba)
-2.  [Apprendre le code oui, mais par où commencer ?](#orga006938)
-    1.  [Le C c'est pour les vrais](#org8abbb8d)
-    2.  [Apprenez Python en moins de 5 heures](#orgbd6d7fe)
-3.  [Un peu de mathématiques ?](#org6b708d3)
-    1.  [Triangle de Sierpinski](#orgb0b8607)
+1.  [Comment créerun site web et l'héberger gratuitement ?](#orge2fb386)
+    1.  [Créer un compte GitHub](#orga1a1af6)
+    2.  [Créer un dépôt (create new repository)](#orgab74f39)
+2.  [Un peu de mathématiques ?](#org78b2b75)
+    1.  [Mon kit GRATUIT pour les probabilités discrètes](#org6f5800e)
+    2.  [Triangle de Sierpinski](#orgfd40716)
+    3.  [Mon kit GRATUIT pour la théorie des groupes](#orgca55db9)
+3.  [Apprendre le code oui, mais par où commencer ?](#org0cce975)
+    1.  [Le C c'est pour les vrais](#org165eb11)
+    2.  [Apprenez Python en moins de 5 heures](#orge13d0bc)
 
 
 
-<a id="org756baae"></a>
+<a id="orge2fb386"></a>
 
 # Comment créerun site web et l'héberger gratuitement ?
 
 
-<a id="orgb68d0d1"></a>
+<a id="orga1a1af6"></a>
 
 ## Créer un compte GitHub
 
@@ -26,7 +28,7 @@ github.com et vous pouvez même utiliser votre compte Google pour
 vous inscrire.
 
 
-<a id="org66f50ba"></a>
+<a id="orgab74f39"></a>
 
 ## Créer un dépôt (create new repository)
 
@@ -34,12 +36,43 @@ Attention à cette étape vous devez donner un nom spécifique du
 style : `nom.github.io`
 
 
-<a id="orga006938"></a>
+<a id="org78b2b75"></a>
+
+# Un peu de mathématiques ?
+
+
+<a id="org6f5800e"></a>
+
+## Mon kit GRATUIT pour les probabilités discrètes
+
+Voici mon kit GRATUIT pour les probabilités discrètes :
+<https://laurentgarnier.podia.com/kit-de-survie-probas-discretes>
+
+
+<a id="orgfd40716"></a>
+
+## Triangle de Sierpinski
+
+<https://sierpinski-triangle.polymathfreeman.repl.co>
+
+
+<a id="orgca55db9"></a>
+
+## Mon kit GRATUIT pour la théorie des groupes
+
+Découvrez la théorie des groupes :
+
+-   en vidéos :
+    <https://www.youtube.com/watch?v=hFa5eo6FT0U&list=PLwWStLtwGECZ1YPIBHzCD3-rzFjCPWnXO>
+-   en pdf : <https://laurentgarnier.podia.com/theorie-des-groupes>
+
+
+<a id="org0cce975"></a>
 
 # Apprendre le code oui, mais par où commencer ?
 
 
-<a id="org8abbb8d"></a>
+<a id="org165eb11"></a>
 
 ## Le C c'est pour les vrais
 
@@ -50,23 +83,11 @@ Suivez mon cours pour apprendre le C :
 <https://laurentgarnier.podia.com/ressourc-vous-avec-le-langage-c>
 
 
-<a id="orgbd6d7fe"></a>
+<a id="orge13d0bc"></a>
 
 ## Apprenez Python en moins de 5 heures
 
 Pour 5 petits euros, vous pouvez obtenir mon livre :
 
 [Apprenez Python en moins de 5 heures](https://www.amazon.fr/Apprenez-Python-heures-Laurent-Garnier-ebook/dp/B0B3THJPP2/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2RMKTEQK6MRNA&keywords=apprenez+Python+en+moins+de+5+heures&qid=1657290940&sprefix=apprenez+python+en+moins+de+5+heu%2Caps%2C3104&sr=8-2)
-
-
-<a id="org6b708d3"></a>
-
-# Un peu de mathématiques ?
-
-
-<a id="orgb0b8607"></a>
-
-## Triangle de Sierpinski
-
-<./sierpinski-triangle.html>
 
